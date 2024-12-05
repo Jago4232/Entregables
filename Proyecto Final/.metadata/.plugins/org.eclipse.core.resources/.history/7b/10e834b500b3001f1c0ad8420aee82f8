@@ -1,0 +1,5 @@
+#Microservice name
+spring.application.name=micro-workers
+
+#Config Server
+spring.config.import=optonal.configserver:http://localhost:8888

@@ -1,0 +1,10 @@
+#Microservice name
+spring.application.name=micro-articulo
+
+#microservice port
+server.port=8081
+
+#eureka config
+eureka.client.service-url.defaultZone=http://localhost:9999/eureka
+
+

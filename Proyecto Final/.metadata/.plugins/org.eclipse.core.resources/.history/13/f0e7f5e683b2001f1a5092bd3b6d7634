@@ -1,0 +1,30 @@
+package com.jago4232.app.entities;
+
+public class Articulo {
+	private long id;
+	private String name;
+	private String descripcion;
+	private double precio;
+	
+	public long getId() {
+		return id;
+	}
+	public void setId(long id) {
+		this.id = id;
+	}
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public String getBrand() {
+		return descripcion;
+	}
+	public void setBrand(String brand) {
+		this.descripcion = brand;
+	}
+
+}

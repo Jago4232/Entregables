@@ -1,0 +1,2 @@
+#Microservice name
+spring.application.name=micro-workers

@@ -1,0 +1,5 @@
+#Microservice name
+spring.application.name=micro-articulo
+
+#Config Server
+spring.config.import=optional:configserver:http://localhost:8081

@@ -1,0 +1,5 @@
+#Microservice name
+spring.application.name=micro-articulo
+
+
+
